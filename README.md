@@ -1,7 +1,7 @@
 💫 Hi 👋, I'm mourad
 A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India
 
-Email Me 👉 ✉️ alamimran613@live.com For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ mouradabdallah581@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 🔭 I’m currently working on: Enter your project info here
 🌱 I’m currently learning: Enter your tech here
@@ -11,6 +11,7 @@ Email Me 👉 ✉️ alamimran613@live.com For Collaboration/Project or Anything
 📫 How to reach me: Enter your email here
 😄 Pronouns: bllobbbyyy
 ⚡ Fun fact: I Love Tech and Tech Love Me
+
 <div align="center">
 
 ```
