@@ -1,16 +1,22 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=Hey%2C%20I'm%20Mourad%20👋&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+</div>
+
 # 💫 Hi 👋, I'm mourad
-**A student Engineer || development Engineer **
+**A student Engineer || development Engineer**
 
 Email Me 👉 ✉️ **mouradabdallah581@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🔭 **I'm currently working on:** Enter your project info here
+- 🌱 **I'm currently learning:** Enter your tech here
+- 👯 **I'm looking to collaborate on:** Enter your project name and info
+- 🤔 **I'm looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 📫 **How to reach me:** mouradabdallah581@gmail.com
 - 😄 **Pronouns:** bllobbyy
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+---
 
 <div align="center">
 
@@ -26,6 +32,11 @@ Email Me 👉 ✉️ **mouradabdallah581@gmail.com** For Collaboration/Project o
 ### `> Software Engineer in the Making — Tunisia 🇹🇳`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Flutter+%7C+Angular+%7C+.NET+Core+%7C+PostgreSQL;Building+scalable+%26+efficient+solutions;Open+to+Job+%26+Alternance+Opportunities)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mouradbenabdallah&style=flat-square&color=6C63FF&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/mouradbenabdallah?style=flat-square&color=6C63FF&label=FOLLOWERS)
 
 </div>
 
@@ -101,30 +112,6 @@ current_learning:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mouradbenabdallah&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=mouradbenabdallah&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mouradbenabdallah&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=mouradbenabdallah&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -132,27 +119,85 @@ current_learning:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouradbenabdallah/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/moura______dd/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CaCnbSt4B)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouradabdallah581@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
-
-✍️ *Dev Quote of the Day*
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-<!-- Snake Game Repo View -->
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mouradbenabdallah&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=mouradbenabdallah&theme=dracula&hide_border=false" />
+
+<br/><br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mouradbenabdallah&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mouradbenabdallah&theme=dracula&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=mouradbenabdallah&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+### 🔝 Top Contributed Repo
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=mouradbenabdallah&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mouradbenabdallah/mouradbenabdallah/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+> ⚠️ *To activate the snake, add [this GitHub Action](https://github.com/Platane/snk) to your profile repo.*
+
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mouradbenabdallah&icon=2&color=6" />
+
+[![](https://visitcount.itsvg.in/api?id=mouradbenabdallah&icon=0&color=0)](https://visitcount.itsvg.in)
+
   <br/>
   <sub>⚡ Proactive • Adaptable • Continuously Learning</sub>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer&animation=fadeIn" />
 </div>
