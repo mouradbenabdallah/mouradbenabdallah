@@ -115,16 +115,6 @@ current_learning:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mouradbenabdallah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-</div>
-
----
-
 ## 🔝 Top Contributed Repos
 
 <div align="center">
@@ -154,7 +144,11 @@ current_learning:
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ---
 
 <div align="center">
