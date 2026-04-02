@@ -150,14 +150,6 @@ current_learning:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=mouradbenabdallah&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
 ---
 
 ### ✍️ Random Dev Quote
@@ -189,6 +181,11 @@ current_learning:
 > ⚠️ *To activate the snake, add [this GitHub Action](https://github.com/Platane/snk) to your profile repo.*
 
 ---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <div align="center">
 
