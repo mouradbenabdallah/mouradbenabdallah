@@ -165,8 +165,6 @@ current_learning:
   <img src="https://raw.githubusercontent.com/mouradbenabdallah/mouradbenabdallah/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> ⚠️ *To activate the snake, add [this GitHub Action](https://github.com/Platane/snk) to your profile repo.*
-
 ---
 <!-- Snake Game Repo View -->
 
