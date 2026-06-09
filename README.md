@@ -35,7 +35,7 @@
 name: Mourad Ben Abdallah
 location: Tunisia 🇹🇳
 education:
-  - BSc in Information Systems Development — ISET Zaghouan ✅
+  - BSc in Information Systems Development — ITEAM university ✅
   - Engineering Degree in Computer Engineering — In Progress 🎓
 status: Open to Job & Alternance Opportunities 🚀
 
@@ -86,16 +86,24 @@ current_learning:
 
 ## 🔥 What I've Built
 
-```
-📦 Intelligent Email Module — integrated into an ERP platform
-   └─ Automated email categorization & processing using ML techniques
+## 🔥 What I've Built
 
-📱 Mobile App — built with Flutter + PostgreSQL
-   └─ Full-stack cross-platform solution
+### 📦 Intelligent Email Module
+> ERP Integration · ML-based categorization · Automated processing  
+Built as part of an ERP platform — automated email routing and categorization using machine learning techniques.
 
-🌐 Full-Stack Web Applications — Angular + .NET Core backend
-   └─ REST APIs, auth systems, and admin dashboards
-```
+### 💰 CashToCash — Budget Management Web App
+> PHP · MySQL · Bootstrap · Team Project (ITEAM University)  
+Collaborative personal budget management app. My contributions: [specify: backend, auth, dashboard, etc.]  
+[🔗 GitHub](https://github.com/mouradbenabdallah/cashtocash-projet-groupe-1-TC-6)
+
+### 📱 Mobile App
+> Flutter · PostgreSQL · Full-stack  
+Cross-platform mobile application. *(Add repo link or screenshot)*
+
+### 🌐 Full-Stack Web Applications
+> Angular · .NET Core · REST APIs · Auth systems  
+Built multiple web apps with admin dashboards and authentication. *(Add repo links)*
 
 ---
 
