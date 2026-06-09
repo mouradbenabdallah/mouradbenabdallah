@@ -169,16 +169,10 @@ current_learning:
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=mouradbenabdallah&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <br/>
-  <sub>⚡ Proactive • Adaptable • Continuously Learning</sub>
-</div>
+
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer&animation=fadeIn" />
