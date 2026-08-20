@@ -1,7 +1,6 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header&text=Hey%2C%20I'm%20Mourad%20👋&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 </div>
- 
 
 ---
 
@@ -18,7 +17,7 @@
 
 ### `> Software Engineer in the Making — Tunisia 🇹🇳`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Flutter+%7C+Angular+%7C+.NET+Core+%7C+PostgreSQL;Building+scalable+%26+efficient+solutions;Open+to+Job+%26+Alternance+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Laravel+%7C+Angular+%7C+Spring+Boot+%7C+FastAPI;Building+scalable+%26+efficient+solutions;Open+to+Job+%26+Alternance+Opportunities)](https://git.io/typing-svg)
 
 <br/>
 
@@ -40,9 +39,9 @@ education:
 status: Open to Job & Alternance Opportunities 🚀
 
 focus:
-  - Mobile & Web Application Development
+  - Full-Stack Web & Mobile Application Development
+  - LMS / ERP Integrations & Analytics Portals
   - Scalable & Efficient Software Architecture
-  - ERP Integrations & Intelligent Modules
 
 current_learning:
   - Cloud Architecture
@@ -65,6 +64,9 @@ current_learning:
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
 
 ### 🚀 Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
@@ -86,24 +88,30 @@ current_learning:
 
 ## 🔥 What I've Built
 
-## 🔥 What I've Built
+### 📊 Edora Analytics Portal
+> Laravel · Moodle REST API/OAuth · Keycloak · Internship Project
+Analytics portal for Edora LMS (a Moodle-based EdTech company), built during my Full Stack Developer internship. Integrates with Moodle over REST API/OAuth, and I proposed architecture changes including Keycloak for identity management and role-based interfaces. Co-presented the portal to the team.
+
+### 💰 BudgetFlow — Personal Finance App
+> Laravel · PostgreSQL · Docker · Local AI (Mistral 7B via Ollama)
+Personal budget management app for Tunisian users (TND currency), with offline AI-generated spending insights — the model runs locally, so no financial data leaves the user's machine.
+
+### 🎮 Tunisian Hoods — FiveM Roleplay Server
+> Lua · QBCore · Discord API · Infra/DDoS mitigation
+Ongoing side project running a GTA roleplay server end-to-end: custom QBCore scripts, inventory/asset creation, Discord Rich Presence and moderation tooling, plus infrastructure and DDoS-mitigation research for the hosting side.
 
 ### 📦 Intelligent Email Module
-> ERP Integration · ML-based categorization · Automated processing  
+> ERP Integration · ML-based categorization · Automated processing
 Built as part of an ERP platform — automated email routing and categorization using machine learning techniques.
 
 ### 💰 CashToCash — Budget Management Web App
-> PHP · MySQL · Bootstrap · Team Project (ITEAM University)  
-Collaborative personal budget management app. My contributions: [specify: backend, auth, dashboard, etc.]  
+> PHP · MySQL · Bootstrap · Team Project (ITEAM University)
+Collaborative personal budget management app built with a team at ITEAM University.
 [🔗 GitHub](https://github.com/mouradbenabdallah/cashtocash-projet-groupe-1-TC-6)
 
-### 📱 Mobile App
-> Flutter · PostgreSQL · Full-stack  
-Cross-platform mobile application. *(Add repo link or screenshot)*
-
 ### 🌐 Full-Stack Web Applications
-> Angular · .NET Core · REST APIs · Auth systems  
-Built multiple web apps with admin dashboards and authentication. *(Add repo links)*
+> Angular · .NET Core · REST APIs · Auth systems
+Multiple web apps built with admin dashboards and authentication systems.
 
 ---
 
@@ -145,8 +153,6 @@ Built multiple web apps with admin dashboards and authentication. *(Add repo lin
 
 ---
 
----
-
 ### ✍️ Random Dev Quote
 
 <div align="center">
@@ -180,7 +186,7 @@ Built multiple web apps with admin dashboards and authentication. *(Add repo lin
 
 [![](https://visitcount.itsvg.in/api?id=mouradbenabdallah&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+</div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer&animation=fadeIn" />
